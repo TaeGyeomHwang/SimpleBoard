@@ -1,6 +1,7 @@
 # Simple Board Community
 Simple Board Community practice using JSP
 
+
 ## 메인 페이지
 <img width="1920" alt="메인페이지" src="https://github.com/TaeGyeomHwang/SimpleBoard/assets/80676211/a29ac62f-1f03-4951-a1fd-08370ca4b94d">
 
