@@ -1,3 +1,6 @@
+# Simple Board Community
+Simple Board Community practice using JSP
+
 <img width="1920" alt="메인페이지" src="https://github.com/TaeGyeomHwang/SimpleBoard/assets/80676211/a29ac62f-1f03-4951-a1fd-08370ca4b94d">
 <img width="1920" alt="회원가입" src="https://github.com/TaeGyeomHwang/SimpleBoard/assets/80676211/f1ea952b-61fc-475e-b824-9e1333dcde30">
 <img width="1920" alt="로그인" src="https://github.com/TaeGyeomHwang/SimpleBoard/assets/80676211/542dc14f-efac-4640-ae09-817c228934f9">
